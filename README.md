@@ -3,7 +3,7 @@ An Encryption Tool using Vigenere Cipher with extra layer of security
 
 ### Vigenere Cipher is a Symmetric Encryption Algorithm which depends on an Encryption Key which is known by both sides
 ### The Encryption mechanism depends mainly on the key 
-### In this project, the Encryption doesn't depend only on the key, it also depends on the alphabitical order which forms an extra layer of security
+### In this project, the Encryption doesn't depend only on the key, it also depends on the alphabetical order which forms an extra layer of security
 
 
 ## Instructions:
